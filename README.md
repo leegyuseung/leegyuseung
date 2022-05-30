@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <br>
 <br>
-<br>
     
 *** 
 </div>
