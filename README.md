@@ -1,9 +1,11 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi😊%20&fontSize=40&fontAlignY=40" />
+
     
 ***
-    
+    🌱 😊 ⭐ 🔨 📖  🇰🇷 🐣
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegyuseung&theme=swift&exclude_repo=Computer-Science-     Engineering&layout=compact&langs_count=10"/>  
-🌱 😊 🔨 📖 🌱 
 
 <a href="https://2gyu.tistory.com/"><img src="https://img.shields.io/badge/StudyBlog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     
@@ -23,4 +25,7 @@
 <br>
     
 *** 
+    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=40&fontAlignY=40" />
+
 </div>
