@@ -26,6 +26,6 @@
     
 *** 
     
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=40&fontAlignY=40" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=40&fontAlignY=40" /> -->
 
 </div>
