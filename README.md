@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi😊%20&fontSize=40&fontAlignY=40" />
 
     
 ***
@@ -8,8 +7,6 @@
 <a href="https://2gyu.tistory.com/"><img src="https://img.shields.io/badge/StudyBlog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://bit.ly/gyus_profile"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br/>
-
-⭐ Enjoy ⭐
 
 ***
 
