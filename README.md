@@ -3,9 +3,8 @@
     
 ***
     🌱 😊 ⭐ 🔨 📖  🇰🇷 🐣
-
-<a href="https://2gyu.tistory.com/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://gyus.notion.site/236cabb84512496bb4a9b02c19c351ea?v=13713d5bbfc34f17819e4a0c11cd2e52"><img src="https://img.shields.io/badge/Algorithm-333333?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://gyus-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://gyus.notion.site/11a1e9dd364b8090a840d806a629e71b?pvs=4"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br/>
 ***
 
